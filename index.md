@@ -8,3 +8,9 @@
 $ git init
 print("Hello World")
 ```
+
+
+# First Item
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
